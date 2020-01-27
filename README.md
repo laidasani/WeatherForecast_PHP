@@ -1,8 +1,8 @@
 # WeatherForecast_PHP
-The Solution Video can be seen on: https://www.youtube.com/watch?v=irN8ZV-GuR8&feature=youtu.be.
+Reference Solution Video: https://www.youtube.com/watch?v=irN8ZV-GuR8&feature=youtu.be.
 
 # Overview
-This application allows user to search for weather information based on current location or any other location entered by the user. The results will be displayed in tabular format, which on clicking, provides detailed description for that particular day. The detailed description provides interactive UI along with charts via Google Charts.
+This application allows users to search for weather information based on the current location or any other location entered by the user. The results will be displayed in tabular format, which on clicking, provides a detailed description for that particular day. The detailed description provides interactive UI along with charts via Google Charts.
 
 # Technologies Used
 PHP, Javascript, HTML, CSS, JSON Parsing, APIs
