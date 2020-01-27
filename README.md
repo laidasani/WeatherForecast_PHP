@@ -12,7 +12,5 @@ Google Geocoding API, Forecast.io DarkSky API, IP API
 
 # Features
 1. Users can search Weather Forecast from current location which is caught using IP API or a custom location using Google Geocoding API.
-
-2.) Users can click on any of the tabulated result and a detailed decription can be seen which has also the hourly weather chart of the day (via Google Charts).
-
-3.) Clear button resets the application.
+2. Users can click on any of the tabulated result and a detailed decription can be seen which has also the hourly weather chart of the day (via Google Charts).
+3. Clear button resets the application.
